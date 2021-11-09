@@ -10,21 +10,24 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-| Mon | Discord |  Stakeholder Interviews and Design Thinking |
-|     |     |                         |
-|     |     |                         |
+| Mon. | Discord |  Stakeholder Interviews and Design Thinking |
+| Tues.| zoom    |   1st interview, Communication plan   |
+| Wed. | zoom    |   2nd interview, User personas, Backlog, Development strategy, READEME.md   |
+| Thur.| zoom    |   wireframes      |
+| Fri. | zoom    |                       |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
+- **Issues**: Major problems (getting stuck), checklists.
 - **Pull Requests**:
 - **GitHub Discussions**
 - **Slack/Discord**: 
-  - every day of the planning phase, about 15 min online meeting. 
+  - Anytime. Details and minor problems.
+- **Zoom Video Calls**:
+  - Every day of the planning phase, about 15 min online meeting. 
   - Practice Stakeholder Interviews and Design Thinking by working in pairs to plan my and my teammate's Home Page user personas, backlogs, wireframes and READMEs.
-- **Video Calls**:
 
 ---
 
