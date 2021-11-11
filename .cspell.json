@@ -1,6 +1,17 @@
 {
   "language": "en",
-  "words": [],
+  "words": [
+    "achecker",
+    "blockquote",
+    "fornats",
+    "markdownlint",
+    "potentialrecommendation",
+    "potentialviolation",
+    "socio",
+    "stylelint",
+    "syle",
+    "testcase"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
