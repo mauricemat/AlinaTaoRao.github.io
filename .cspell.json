@@ -2,15 +2,18 @@
   "language": "en",
   "words": [
     "achecker",
+    "Alina",
     "blockquote",
     "fornats",
     "markdownlint",
+    "Mateke",
     "potentialrecommendation",
     "potentialviolation",
     "socio",
     "stylelint",
     "syle",
-    "testcase"
+    "testcase",
+    "wireframes"
   ],
   "ignorePaths": [
     "node_modules/**",

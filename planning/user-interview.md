@@ -179,9 +179,9 @@ projects. She wants also to learn more coding programmes.
 
 ## User Feedback
 
-<!-- Discuss your ideas with the user. lots of `why?`. -->
-
-### Notes during the discussion with the user
+- The design is attractive
+- The homepage is easy to navigate
+- The purpose is comprehensive
 
 ### Summary of the discussion with the user
 
