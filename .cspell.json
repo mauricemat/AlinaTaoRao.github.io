@@ -1,5 +1,18 @@
 {
   "language": "en",
+  "words": [
+    "achecker",
+    "blockquote",
+    "fornats",
+    "markdownlint",
+    "potentialrecommendation",
+    "potentialviolation",
+    "socio",
+    "stylelint",
+    "syle",
+    "testcase"
+  ],
+=======
   "words": ["Rao's", "wireframes"],
   "ignorePaths": [
     "node_modules/**",

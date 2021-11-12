@@ -1,5 +1,6 @@
 # The Code
 
+=======
 
 ---
 
@@ -48,7 +49,7 @@ what is blocking you)" labels: help-wanted
   - What don't you understand about how it works?
 -->
 
-## Best Efforts
+### Best Efforts
 
 <!--
   If this is your code and it has a bug, explain what you've tried so far:
@@ -60,14 +61,14 @@ what is blocking you)" labels: help-wanted
   - What brought you farther?
 -->
 
-## Helpful Links
+### Helpful Links
 
 <!--
   Videos, articles, snippets, ... anything that helped you understand or make
   progress on the problem.
 -->
 
-## Hopeful Links
+### Hopeful Links
 
 <!--
   Links that look like they should be helpful but you just can't put all the
