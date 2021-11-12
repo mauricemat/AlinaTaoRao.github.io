@@ -12,8 +12,6 @@
     "syle",
     "testcase"
   ],
-=======
-  "words": ["Rao's", "wireframes"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
