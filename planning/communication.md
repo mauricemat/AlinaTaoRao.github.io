@@ -39,7 +39,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | _Alina_   | 10-12; 14-15 | 10-12; 14-15 | 10-12; 14-15 | 10-12; 14-15 | 10-12; 14-15 |          |        |
 | _Maurice_ |    15-17     |    15-17     | 9-12; 15-17  |    15-17     | 9-12; 15-17  |          |        |
 
-### How many hours everyone has per day:
+### How many hours everyone has per day
 
 - Alina: _3h_; extra comments?
 - Maurice: _2h_ to _5h_;
