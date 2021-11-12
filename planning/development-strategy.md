@@ -115,6 +115,8 @@ through the following issues:
     - [ ] use ` ` color.
     - [ ] use ` ` as font type.
 
+---
+
 ### Portfolio
 
 > Aa a employer user, I want to see his/her portfolio, so that I can judge if
