@@ -2,18 +2,19 @@
   "language": "en",
   "words": [
     "achecker",
+    "Alina",
     "blockquote",
     "fornats",
     "markdownlint",
+    "Mateke",
     "potentialrecommendation",
     "potentialviolation",
     "socio",
     "stylelint",
     "syle",
-    "testcase"
+    "testcase",
+    "wireframes"
   ],
-=======
-  "words": ["Rao's", "wireframes"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
