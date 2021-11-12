@@ -1,8 +1,10 @@
-# Project Name
+# Alina's Home Page
 
 <!-- describe your project -->
 
----
+This is a personal portfolio homepage. I will be working individually and using
+the UX/UI design skills to build the home page. The website will be developed
+through the following issues:
 
 ## Setup
 
@@ -33,40 +35,144 @@
 
 <!-- copy this section once for each must-have user story -->
 
-## user story
+## Must Haves
 
-<!-- each issue created from this section will have the `for: user story` label -->
+### Logo
 
-> "as a ... i can ... so that ..."
+> As a layman user, I want to see a logo, so that I can differentiate it.
 
-<!-- write any extra notes or description -->
+- [ ] _there is a prominent Logo at the top left of the web page_
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+**Issues:**
 
-### Logic: user story
+    `1. HTML:`
+    - [ ] use `header` to include the logo.
+    - [ ] use `anchor` and `img` to add the logo.
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+    `2- CSS:`
+    - [ ] use `left` align to place the logo.
 
-### Interface: user story
+---
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### Nav bar
 
-### Interaction: user story
+> As a layman user, I want to see a navbar, so that I can navigate comfortably
+> to different webpage or section.
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- [ ] _there is a navigation bar (sticky) right on the top of the screen_
 
-### Documentation: user story
+**Issues:**
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+    `HTML:`
+    - [ ] use `nav` to include the navigation bar.
+    - [ ] use `ul` and `li` to add the navigation links.
+
+    `CSS:`
+    - [ ] use `right` align to place the logo.
+    - [ ] use ` ` color.
+    - [ ] use ` ` as font type.
+
+---
+
+### General info about the owner
+
+> Aa a employer user, I want to see his/her location and available info., so
+> that I know if he/she is available for our company.
+
+- [ ] _there is Location on the homepage_
+- [ ] _there is available info_
+
+**Issues:**
+
+    `HTML:`
+
+    - [ ] use `h2` to include the Location.
+    - [ ] use `h3` to include the available info.
+    - [ ] use `h3` to include the description of each portfolio.
+
+    `CSS:`
+
+    - [ ] use `grid` `card`to align the portfolios.
+    - [ ] use ` ` color.
+    - [ ] use ` ` as font type.
+
+> Aa a employer user, I want to see his/her name and job title, so that I know
+> if he/she is match for our company.
+
+- [ ] _there is job title_
+- [ ] _there is full name_
+
+**Issues:**
+
+    `HTML:`
+
+    - [ ] use `h2` to include the job title.
+    - [ ] use `h2` to include the full name.
+
+    `CSS:`
+
+    - [ ] use ` ` ` `to align the job title and name.
+    - [ ] use ` ` color.
+    - [ ] use ` ` as font type.
+
+### Portfolio
+
+> Aa a employer user, I want to see his/her portfolio, so that I can judge if
+> he/she is qualified.
+
+- [ ] _there is a portfolio section on the homepage_
+- [ ] _there is a way to download resume or read it_
+
+**Issues:**
+
+    `HTML:`
+
+    - [ ] use `section` to include the portfolios.
+    - [ ] use `h2` to include the title of each portfolio.
+    - [ ] use `h3` to include the description of each portfolio.
+
+    `CSS:`
+
+    - [ ] use `grid` `card`to align the portfolios.
+    - [ ] use ` ` color.
+    - [ ] use ` ` as font type.
+
+---
+
+### Contact form
+
+> As a layman user, I want to contact the owner, so that I can send my message
+> to him/her.
+
+- [ ] _there is a contact form section on the homepage_
+
+**Issues:**
+
+    `HTML:`
+    - [ ] use `input` to include name and email and message.
+    - [ ] use `button` to conform and send the message.
+
+    `CSS:`
+    - [ ] use `right` align to place the form.
+    - [ ] use ` ` color.
+    - [ ] use ` ` as font type.
+
+---
+
+### Social Links
+
+> As a layman user, I want to see the social media links, so that follow the
+> owner.
+
+- [ ] _there is a social media links section on the homepage_
+
+**Issues:**
+
+    `HTML:`
+    - [ ] use `div` to include the social media icons.
+    - [ ] use `footer` to include the div.
+
+    `CSS:`
+    - [ ] use `center` align to place the icons.
+    - [ ] use ` ` color.
+    - [ ] use ` ` as font type.
