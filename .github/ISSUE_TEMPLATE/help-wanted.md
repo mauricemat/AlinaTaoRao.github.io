@@ -1,23 +1,13 @@
-# The Code
-
-=======
+# Help wanted template
 
 ---
 
-name: help-wanted
-
-about:
-
-A template issue for when you're blocked on certain lines of code. This template
-has a lot of sections to get you thinking about your question, you don't need to
-fill in every one of them title: "(describe what is blocking you)" labels:
-help-wanted
-=======
 name: help-wanted about: A template issue for when you're blocked on certain
 lines of code. This template has a lot of sections to get you thinking about
 your question, you don't need to fill in every one of them title: "(describe
 what is blocking you)" labels: help-wanted
 
+---
 
 <!--
   Make your issue easy to find:
@@ -26,6 +16,8 @@ what is blocking you)" labels: help-wanted
   - labels: anything that will make this easier to filter
   - assign: anyone you would like help from
 -->
+
+## The Code
 
 <!--
   The code you have a question about (it doesn't need to be your code!). This can
@@ -49,7 +41,7 @@ what is blocking you)" labels: help-wanted
   - What don't you understand about how it works?
 -->
 
-### Best Efforts
+## Best Efforts
 
 <!--
   If this is your code and it has a bug, explain what you've tried so far:
@@ -61,14 +53,14 @@ what is blocking you)" labels: help-wanted
   - What brought you farther?
 -->
 
-### Helpful Links
+## Helpful Links
 
 <!--
   Videos, articles, snippets, ... anything that helped you understand or make
   progress on the problem.
 -->
 
-### Hopeful Links
+## Hopeful Links
 
 <!--
   Links that look like they should be helpful but you just can't put all the
