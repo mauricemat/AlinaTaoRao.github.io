@@ -171,7 +171,8 @@ then what she knows and can do.
 
 ## Stakeholder Feedback
 
-<!-- Discuss your ideas with the stakeholder. lots of `why?`. -->
+The design and the backlog are very logical. It make sense. He can use it for
+next phase.
 
 ### Notes during the discussion with the stakeholder
 
